@@ -1,6 +1,6 @@
 function Home() {
 
-    return <h1>Frase de impacto correção1</h1>
+    return <h1>Alterando a frase para o Vercel!</h1>
 
 }
 
